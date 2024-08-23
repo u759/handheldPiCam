@@ -6,7 +6,9 @@ Basic Python GUI using Qt to control an Arducam IMX519 16MP camera. Uses picamer
 - Focus
 - Auto mode
 
-Rev 1. Will update later. Code has room for improvement.
+Rev 1. Will update later. Code has room for improvement:
+- Prevent crash on opening corrupted files
+- Eject button/figure out how to not corrupt on instant SD removal
 
 ![image](https://github.com/user-attachments/assets/71eefac7-84b3-43e2-bbd3-661ed0c9b3d1)
 ![image](https://github.com/user-attachments/assets/9f9cdb43-353b-45ca-a66b-f2809183ad46)
